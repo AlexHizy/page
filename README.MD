@@ -8,6 +8,6 @@ I work at an institute in IT.\
 My dog asks me to walk with her every morning. It's a total torment.
 ***
 #### Oh. Who is it? 
-![alt text](picture.jpg)\
+![alt text](picture.jpg)
 #### It's me ~~Mario~~ Aleksey!
 ***
